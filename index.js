@@ -128,3 +128,4 @@ function deleteProduct(productIndex) {
   localStorage.setItem("product", JSON.stringify(products)); 
   getProducts();
 }
+//end
